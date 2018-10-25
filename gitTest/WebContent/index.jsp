@@ -13,6 +13,9 @@
 		<li>git 명령어 - git add</li>
 		<li>git 명령어 - git commit</li>
 		<li>git 명령어 - git branch</li>
+		<li>git 명렁어 - git checkout</li>
+		<li>git 명렁어 - git merge</li>
+		
 	</ul>
 </body>
 </html>
