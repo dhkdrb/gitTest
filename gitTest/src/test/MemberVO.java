@@ -7,5 +7,10 @@ public class MemberVO {
 		super();
 		this.no = no;
 	}
+
+	private String age;
+	
+	public MemberVO(){}
+
 	
 }
