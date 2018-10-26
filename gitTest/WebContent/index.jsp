@@ -15,13 +15,7 @@
 		<li>git 명령어 - git branch</li>
 		<li>git 명렁어 - git checkout</li>
 		<li>git 명렁어 - git merge</li>
+		
 	</ul>
-	<p><a href="http://www.naver.com">네이버</a></p>
-	<p>스프링의 주요 개념</p>
-	<p>AOP</p>
-	<p>DI</p>
-	<script>
-		location.href="http://www.google.com";
-	</script>
 </body>
 </html>
